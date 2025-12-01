@@ -1,0 +1,5 @@
+{
+  "name": "Condomínio Financial Dashboard",
+  "description": "A professional financial dashboard for Edificio Cond. Curitiba e Porto Alegre, featuring expense tracking, fund composition, and account balance evolution with dark mode and dynamic data loading.",
+  "requestFramePermissions": []
+}
